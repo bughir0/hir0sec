@@ -95,7 +95,7 @@
 <!-- Trophies: o host oficial vercel.app costuma dar 503; mirror comunitário (lista em ryo-ma/github-profile-trophy) -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://gh-trophy.cdnsoft.net/?username=hirodevbr&theme=algolia&no-frame=true&margin-w=8&margin-h=8&column=7" alt="GitHub trophies" />
+    <img src="https://gh-trophy.cdnsoft.net/?username=bughir0&theme=algolia&no-frame=true&margin-w=8&margin-h=8&column=7" alt="GitHub trophies" />
   </a>
 </p>
 
@@ -123,10 +123,10 @@
 <h2 align="center">Stats</h2>
 <br>
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=hirodevbr&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=hirodevbr&theme=react&border_radius=10" alt="GitHub streak" />
+  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=bughir0&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=bughir0&theme=react&border_radius=10" alt="GitHub streak" />
   <br/><br/>
-  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hirodevbr&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top languages" />
+  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=bughir0&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top languages" />
 </div>
 
 <br/><br/>
