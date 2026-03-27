@@ -105,7 +105,7 @@
 <div align="center">
   <h2>My Contributions</h2>
   <br>
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/hirodevbr/hirodevbr/refs/heads/main/github-user-contribution.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/bughir0/bughir0/refs/heads/main/github-user-contribution.svg" />
   <br/><br/><br/>
 </div>
 
@@ -114,7 +114,7 @@
 <h2 align="center">Contribution graph</h2>
 <br/>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hirodevbr&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Gráfico de contribuições" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bughir0&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Gráfico de contribuições" />
 </p>
 
 <br/>
