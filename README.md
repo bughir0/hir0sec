@@ -43,7 +43,7 @@
   <a href="https://github.com/bughir0" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://samuel-hiro.dev" target="_blank">
+  <a href="https://bughiro.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-samuel--hiro.dev-6366f1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
   </a>
 </div>
